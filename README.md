@@ -1,24 +1,40 @@
 # Relic
 
-Relic turns a jailbroken Kindle into a quest log. Your to-dos become quests. Finishing them earns XP, levels and ranks, and the game around them keeps going for months:
+Relic turns a jailbroken Kindle into a quest log that plays like a game. Your to-dos become quests. Finishing them earns XP, gold and ranks, and the game around them keeps going for months. It's a KOReader plugin and runs offline on e-ink.
 
-- a Daily Directive with a streak
-- baking: combine ingredients, find recipes
-- a walk along a real pilgrim road (the Via Francigena, Canterbury to Rome, 1,862 km at real scale)
-- fights, gear, and a story that opens up as you go
+| Lock screen | Quests (Console theme) | Quests (Beam Me Up theme) |
+|---|---|---|
+| ![Lock screen](screenshots/lockscreen.png) | ![Quest list, Console theme](screenshots/console-quests.png) | ![Quest list, Beam Me Up theme](screenshots/beam-quests.png) |
 
-Gold earned from quests can't be spent in the game. It unlocks real-world rewards you set yourself ("Bandsaw $200"), and you buy them with your own money when you get there.
+## What it does
 
-It's a KOReader plugin and runs offline on e-ink. The map and loot rewards need a free Todoist account and a phone (see [SETUP.md](SETUP.md)).
+**Your to-do list is the lock screen.** Every time the Kindle sleeps, it shows today's Daily Directive, your next five quests with due dates, your stats and a line from your companion. It replaces the Kindle's screensaver, Special Offers ads included. Glance at it on the way past and you know what's next.
 
-| Console theme (default) | Beam Me Up theme |
-|---|---|
-| ![Quest list, Console theme](screenshots/console-quests.png) | ![Quest list, Beam Me Up theme](screenshots/beam-quests.png) |
-| ![Map, Console theme](screenshots/console-map.png) | ![Map, Beam Me Up theme](screenshots/beam-map.png) |
+**Quests that fit real life.** Four sizes (Minor, Standard, Major, Epic) pay more as they grow. Break big ones into checklists. Give them due dates, and late ones rise to the top. Make them repeat (every day, weekdays, every Monday and Friday, every 3 days); a missed one rolls over instead of piling up. Mark one "waiting on someone" or "out of the house", or flag it "dreading it" for double XP.
 
-Screenshots from the KOReader desktop emulator at Paperwhite 2 size. Switch themes under MENU > Theme.
+**One thing that matters, every day.** Pick a Daily Directive. Finish it and your streak grows; every 7 days earns a shield that covers a missed day. Skip it and your Integrity drops (after a first-week grace period).
 
-New to it? **[HOW-TO-PLAY.md](HOW-TO-PLAY.md)** covers the basics in five minutes.
+**Gold that buys real things.** Quests pay gold by size. Gold can't be spent in the game: it goes toward rewards you set yourself ("Bandsaw $200"). Claim one when you've earned it, then go buy it with your own money.
+
+**Levels, ranks and skills.** XP raises your level and stats. A 12-rank ladder runs from Cadet to Fleet Admiral, with a full-screen promotion each time. Skills appear on their own, based on the kind of things you finish.
+
+**A walk to Rome.** The map is the Via Francigena, Canterbury to Rome: 83 real stages, 1,862 km, at real scale. Steps from your phone become Range; spend it to flip cards and explore. Along the way: fights, elite monsters, guardians that block the road until beaten, and gear drawn from 19th-century engravings.
+
+**Baking.** Put two ingredients in a barrel and see what comes out. 46 recipes to find. Baked goods heal, repair Integrity, earn shields, boost XP and help in fights. Salvage, merge and regrow what you don't need.
+
+**Practice.** Meditation timers, a Pomodoro timer with a time log per quest, and TRAIN: log pushups, squats or dumbbell sets to build Grit.
+
+**Records.** A 14-day chart of quests done, a weekly summary (done, skipped, XP, gold), when in the day you get things done, your best day and best streak.
+
+**A story that opens up as you go.** A companion rides along and comments on how you're doing. The story unfolds stage by stage along the road, and it notices when you skip days.
+
+**Phone sync (optional).** With a free Todoist account, add quests from your phone (labels set size, Daily, deadlines, loot rewards; recurring tasks become repeating quests), send daily step counts with an included iPhone Shortcut, and get daily save backups and a monthly play history in your own Todoist.
+
+**Built for real life.** Pause it for a trip and your streak waits. Two themes. It updates itself from this repo and can roll back. Everything works offline; the map and loot rewards need the phone sync.
+
+![Map, Console theme](screenshots/console-map.png)
+
+Screenshots from the KOReader desktop emulator at Paperwhite 2 size. New to it? **[HOW-TO-PLAY.md](HOW-TO-PLAY.md)** covers the basics in five minutes.
 
 ## Quick install
 
