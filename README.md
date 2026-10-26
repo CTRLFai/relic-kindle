@@ -44,7 +44,7 @@ Starting from a stock Kindle: **[SETUP.md](SETUP.md)** covers the jailbreak, KOR
 
 ## Status
 
-Version 42. A personal project, shared with friends. Built for and tested on a **Kindle Paperwhite 2** (758 x 1024) with KOReader v2026.07.1. Other Kindles that run KOReader may work, but the layout hasn't been checked on them. If something looks wrong on yours, a screenshot helps.
+Version 43. A personal project, shared with friends. Built for and tested on a **Kindle Paperwhite 2** (758 x 1024) with KOReader v2026.07.1. Other Kindles that run KOReader may work, but the layout hasn't been checked on them. If something looks wrong on yours, a screenshot helps.
 
 Built with AI. Mike designed the game and plays it every day. The code, tests and art pipelines were written with Claude (Anthropic) under his direction. The story was written by Claude too, and kept sealed from Mike so he could play it unspoiled.
 
